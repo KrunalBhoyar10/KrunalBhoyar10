@@ -11,7 +11,7 @@ Hi 👋 My name is Krunal Bhoyar
  
 
 * 🌍  A passionate full-stack developer from India
-* ✉️  You can contact me at [aayushbodele084@gmail.com](mailto:aayushbodele084@gmail.com)
+* ✉️  You can contact me at [aayushbodele084@gmail.com](mailto:krunalbhoyar10@gmail.com)
 * 🧠  I'm learning React and NodeJS
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I have a ETC background, but most of the credit goes to Web Dev
