@@ -14,7 +14,7 @@ Hi 👋 My name is Krunal Bhoyar
 * ✉️  You can contact me at [krunalbhoyar10@gmail.com](mailto:krunalbhoyar10@gmail.com)
 * 🧠  I'm learning React and NodeJS
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I have a ETC background, but most of the credit goes to Web Dev
+
 
 
 ## 📊 Github Stats
