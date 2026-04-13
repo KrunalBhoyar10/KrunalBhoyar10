@@ -11,30 +11,15 @@ Hi 👋 My name is Krunal Bhoyar
  
 
 * 🌍  A passionate full-stack developer from India
-* ✉️  You can contact me at [aayushbodele084@gmail.com](mailto:krunalbhoyar10@gmail.com)
+* ✉️  You can contact me at [krunalbhoyar10@gmail.com](mailto:krunalbhoyar10@gmail.com)
 * 🧠  I'm learning React and NodeJS
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I have a ETC background, but most of the credit goes to Web Dev
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AyushBodele&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false"
-    height="150" alt="stats graph" />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=AyushBodele&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
-    height="150" alt="languages graph" />
-</div>
-
-<br clear="both">
 
 ## 📊 Github Stats
 <!-- GitHub Trophies -->
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=AyushBodele&column=6&margin-w=20&margin-h=15&no-frame=true&theme=dracula&title=Followers,Repositories,Commits,Issues,Stars,PullRequest"
-    alt="GitHub Trophies"
-    style="max-width: 100%;" />
-</p>
+
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
